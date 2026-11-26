@@ -47,7 +47,7 @@
 
 ## 第二步：准备注入版游戏
 
-需要：JDK 17/21、`apktool.jar`、arm64 版 `frida-gadget`、Android build-tools（`zipalign` / `apksigner`）。这些工具可以去下载，
+需要：JDK 17/21、`apktool.jar`、arm64 版 `frida-gadget`、Android build-tools（`zipalign` / `apksigner`）。
 
 把 `apktool.jar` 和 gadget 放进 `tools\`，脚本会自动找到：
 
